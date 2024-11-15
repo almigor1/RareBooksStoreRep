@@ -1,8 +1,6 @@
 public class App {
     public static void main (String [] args)
     {
-        System.out.println("Мы открылись!!!");
-
-
+        System.out.println("Открытие через полчаса!");
     }
 }
